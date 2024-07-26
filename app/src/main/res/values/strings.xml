@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestTask</string>
+
+    <string name="fullName">ФИО: %1$s</string>
+    <string name="position">Должность: %1$s</string>
+    <string name="workedOutHours">Отработанные часы: %1$d</string>
+    <string name="workHoursInMonth">Количество рабочих часов в месяце: %1$d</string>
+    <string name="error">Ошибка</string>
+    <string name="errorDescription">Описание ошибки: %1$s</string>
+
+    <string name="battery">Заряд батареи: %1$d%%</string>
+    <string name="wifi">Состояние сигнала Wi-Fi: %1$s</string>
+    <string name="version">Версия приложения: %1$s</string>
+
+    <string name="noConnection">Нет подключения</string>
+    <string name="veryWeak">Очень слабый</string>
+    <string name="weak">Слабый</string>
+    <string name="middle">Средний</string>
+    <string name="good">Хороший</string>
+    <string name="excellent">Отличный</string>
+
+    <string name="FillInAllFields">Заполните все обязательные поля</string>
+</resources>
